@@ -79,7 +79,7 @@ Please refer to [Guidelines].
 Look at the response body. It often contains an [Error](Groove-service-REST-Reference/JSON-Error.md) object with a precise description of the error case.
 
 ### <a name="18"> </a>May I download audio files with my application and provide a download feature to my application users?
-No, this is not allowed according to the TOUs of the APIs. The audio may only be provided in the form of streams. This applies to all of your users, even premium users.  
+No, this is not allowed according to the TOUs of the APIs. The audio may be provided only in the form of streams. This applies to all of your users, even premium users.  
 
 Please refer to [Guidelines].
 
